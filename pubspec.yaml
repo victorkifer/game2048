@@ -1,0 +1,34 @@
+name: two_zero_four_eight
+description: 2048 Game
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  shared_preferences: ^0.4.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.7.0
+  swipedetector: ^1.2.0
+
+flutter_icons:
+  android: true 
+  ios: true
+  image_path: "assets/icon.png"
+  image_path_android: "assets/icon-android.png"
+  image_path_ios: "assets/icon.png"
+  adaptive_icon_background: "#FF9D9484"
+  adaptive_icon_foreground: "assets/icon-android-foreground.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - icon.png
+
+  fonts:
+    - family: Primary
+      fonts:
+        - asset: fonts/hs_us.ttf
