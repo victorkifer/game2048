@@ -12,7 +12,7 @@
 
 ### Missing features
 
-- move animations
+- move animations (All contributions are welcome)
 
 ## Developer Notes
 
