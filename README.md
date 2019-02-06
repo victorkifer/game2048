@@ -4,15 +4,18 @@
 
 ## Features Overview
 
-- 4x4 grid (with support for extension to larger grids)
+- supports different grid sizes (standard - 4x4 grid)
 - game engine is separated from UI
-- high score support
-- support one step back
+- high score support (stored in SharedPreferences / NSUserDefaults)
+- supports one step back
 - win/lose check
 
-### Missing features
+### Missing features (All contributions are welcome)
 
-- move animations (All contributions are welcome)
+- move animations
+- the gesture engine seems to response a little bit slow
+- limited test coverage
+- history of steps (multi-step back)
 
 ## Developer Notes
 
