@@ -13,7 +13,7 @@
 ### Missing features (All contributions are welcome)
 
 - move animations
-- the gesture engine seems to response a little bit slow
+- the gesture engine seems to respond a little bit slow
 - limited test coverage
 - history of steps (multi-step back)
 
